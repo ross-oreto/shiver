@@ -3,7 +3,7 @@
 Sorted UI App
 
 ### Requirements
-- Flutter https://docs.flutter.dev/get-started/install/windows
+- Flutter https://docs.flutter.dev/get-started/install
 - or from Git 
 ```
 git clone https://github.com/flutter/flutter.git -b stable
